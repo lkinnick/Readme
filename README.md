@@ -41,7 +41,7 @@ remaining mixture and decorating with sections of orange and perfect dates.
 
 recipie from [womens worldld calender cookbook]: https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t3805nx1f&seq=25 
 
-![calender cookbook](/Images/orange_date_cake.png)
+![calender cookbook](/Images/calendar_cookbook_cover.jpg)
 
 ## Source
 Allen, Ida Bailey. *Woman's World Calendar Cook Book*. Chicago: Woman's World Magazine Co., 1922. 
